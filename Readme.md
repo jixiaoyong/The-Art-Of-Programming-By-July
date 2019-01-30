@@ -212,15 +212,11 @@ July团队高校讲座PPT
  - KMP的PDF：http://yun.baidu.com/s/1eQel3PK ；
  
 七月在线经典课程
- - 《机器学习中的数学班》：https://www.julyedu.com/course/getDetail/41 。专为复习、巩固机器学习中所需的数学基础。
- - 《Python数据分析班》：https://www.julyedu.com/course/getDetail/43 ，入门数学科学的最佳课程。
- - 《计算机视觉班》：https://www.julyedu.com/course/getDetail/44 ，从CV基础到深度学习实战，9.3日开班。
  - 《机器学习与量化交易项目班》：https://www.julyedu.com/course/getDetail/46 ，项目驱动、真实数据，市场上极为难得的项目班，16年9.24日开班。
- - 11月深度学习班 [通向无人驾驶的必经之路]：https://www.julyedu.com/course/getDetail/49 。国内首个GPU云实验平台，秒杀同品类课程。
  - 《kaggle案例实战班 [100%纯实战]》：https://www.julyedu.com/course/getDetail/54 ，本周六12.24日起在线直播
- - ¥2999包揽2017年全套数据课程和全年GPU：https://www.julyedu.com/sale/vip ，包含论文班、GAN、迁移学习、强化学习、TensorFlow框架实战班等等..
- - 《第8期机器学习算法班》：https://www.julyedu.com/course/getDetail/65 ，BAT工业实战、kaggle案例，国内最好ML课程。
- - 七月在线「机器学习集训营」，线上线下项目实训，线下BAT专家面对面、手把手教学，尤为突出BAT级工业项目实战辅导 + 一对一面试求职辅导：https://www.julyedu.com/category/index/2/32 。且提供3个月GPU实战，更精讲面试常见考点。
+ - ¥2499包揽2018年全套AI课程和全年GPU：https://www.julyedu.com/vip/vip_18 ，包含机器学习、深度学习、迁移学习、强化学习、TensorFlow框架实战班等等..
+ - 《机器学习 第八期》：https://www.julyedu.com/course/getDetail/65 ，BAT工业实战、kaggle案例，国内最好ML课程。
+ - 七月在线「机器学习集训营」，线上线下项目实训，线下BAT专家面对面、手把手教学，尤为突出BAT级工业项目实战辅导 + 一对一面试求职辅导：https://www.julyedu.com/category/index/2/32 。且提供3个月GPU实战，更精讲面试常见考点。且第4期ML集训营4增加入学测评，增加每周在线考试，增加作业和考试1v1批改，增大ML DL内容的所占比重，更增加到了北上深广杭沈济郑成等9大线下点。
  
 July’ blog
  - CNN笔记：通俗理解卷积神经网络 http://blog.csdn.net/v_july_v/article/details/51812459
@@ -232,6 +228,7 @@ July’ blog
  - beautiful soup和网络爬虫初步：http://mp.weixin.qq.com/s?__biz=MzI4MTQ2NjU5NA==&mid=2247483666&idx=1&sn=af802b39d42d9073e24c086790457004&chksm=eba9829fdcde0b8929ae724f0b41d49091c88fc1e07f697c5030516f33b1bcfcffdace83bcf7&mpshare=1&scene=23&srcid=1102C9RJJ1RXE6bHwFQzLy6W#rd
  - 16年度最火课程TOP 10免费试听：https://www.julyedu.com/sale/christmas
  - 如何学习数据科学、机器学习与深度学习（附学习路线）：http://blog.csdn.net/v_july_v/article/details/54561427
- - 《机器学习集训营第三期》：http://www.julyedu.com/weekend/train3 ，学习机器学习的最佳选择，三个月挑战起薪三十万。
+ - 《机器学习集训营第5期》：http://www.julyedu.com/weekend/train5 ，学习机器学习的最佳选择，三个月挑战起薪四十万。
  - 国内首个AI题库陆续发布，「BAT机器学习面试1000题」：http://blog.csdn.net/column/details/17609.html
+ - 迄今为止，这几篇是我见过阐述最为通俗易懂的文章：①KMP http://blog.csdn.net/v_july_v/article/details/7041827 ，②SVM http://blog.csdn.net/v_july_v/article/details/7624837 ，③CNN https://www.julyedu.com/question/big/kp_id/26/ques_id/2084 ，④RNN https://www.julyedu.com/question/big/kp_id/26/ques_id/1717 ，⑤LSTM https://www.julyedu.com/question/big/kp_id/26/ques_id/1851 ， ⑥物体检测 https://www.julyedu.com/question/big/kp_id/26/ques_id/2103 ， ⑦区块链 https://www.julyedu.com/question/big/kp_id/29/ques_id/2110 。看过无数资料，可能都不如这些好懂。 ​​​​
 - 持续更新..
